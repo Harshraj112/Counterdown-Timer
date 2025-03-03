@@ -16,7 +16,6 @@ body {
     height: 100vh;
     background: url('/Images/1802071.webp') center no-repeat;
     background-size: cover;
-
 }
 
 .overlay {
@@ -77,5 +76,7 @@ input {
     .col div {
         margin-bottom: 23px;
     }
-    
+    .main {
+        height: 112vh;
+    }
 }
