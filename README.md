@@ -20,9 +20,32 @@ This is a simple and interactive **Countdown Timer** (Digital Alarm Clock) built
 
 ## 📸 Screenshots
 
-_Add screenshots here (upload your images to `screenshots/` and reference them below)_
+<img width="1437" alt="Screenshot 2025-06-11 at 4 40 52 PM" src="https://github.com/user-attachments/assets/4bee518b-bb10-40e5-89be-aecfff9812c6" />
 
-![Countdown UI](screenshots/countdown-ui.png)
 
 ## 📁 Project Structure
+├── index.html
+├── style.css
+├── script.js
+├── alarm.mp3 # (optional sound file)
+├── screenshots/
+│ └── countdown-ui.png
+└── README.md
+
+
+## 🚀 How to Use
+
+1. Open `index.html` in your browser.
+2. Enter minutes and seconds.
+3. Click **Start** to begin the countdown.
+4. When the time hits 0, the alarm will ring.
+
+## 📬 Contact
+
+Created by **Harsh Raj**  
+🔗 [LinkedIn](https://www.linkedin.com/in/harshraj112/)
+
+---
+
+> ⭐ Feel free to fork, improve, and share this project!
 
